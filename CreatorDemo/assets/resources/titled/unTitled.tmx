@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.4" orientation="hexagonal" renderorder="right-down" width="9" height="5" tilewidth="64" tileheight="67" infinite="0" hexsidelength="40" staggeraxis="y" staggerindex="odd" nextobjectid="1">
+ <tileset firstgid="1" name="unTile" tilewidth="64" tileheight="67" tilecount="3" columns="1">
+  <image source="meitu_1.png" width="64" height="201"/>
+ </tileset>
+ <layer name="Tiledlayer" width="9" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCSAmQlgEGAiAhOyh4EIu0AYAB0MAFc=
+  </data>
+ </layer>
+</map>
